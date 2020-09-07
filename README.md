@@ -1,2 +1,2 @@
 # flask-rest-api
-REST API using Flask, SQLAlchemy and Marshmallow
+REST API using Flask, SQL Alchemy and Marshmallow
